@@ -1,2 +1,2 @@
 # branch_by_terraform
-first repository using terrform
+first repository using terrform.
